@@ -4,7 +4,7 @@ div{
     margin-top: 100px;
     width: 28%;
     background-color: rgb(146, 144, 144);
-    height: 425px;
+    height: 410px;
     text-align: center;
     color: white;
     border-radius: 5px;
@@ -98,7 +98,7 @@ body{
   
 
 }
-@media(min-width:751px) and (min-width:999px){
+@media(min-width:751px) and (max-width:999px){
     P{
         font-size: 17px;
     }
