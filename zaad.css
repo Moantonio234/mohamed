@@ -4,7 +4,7 @@ div{
     margin-top: 100px;
     width: 28%;
     background-color: rgb(146, 144, 144);
-    height: 425px;
+    height: 415px;
     text-align: center;
     color: white;
     border-radius: 5px;
@@ -84,29 +84,16 @@ body{
     display: inline-block;
    
 }
-.call{
-  width: 20px;
-  height: 20px;
-    margin-left: 170px;
-    margin-top: 5px;
-    
-}
-@media(max-width:750px) {
-    P{
-        font-size: 17px;
-    }
+
+
   
 
-}
-@media(min-width:751px) and (max-width:999px){
+
+@media(min-width:650px) and (max-width:1000px){
     P{
         font-size: 17px;
     }
 }
 
-@media(min-width:1000px) {   
-    P{
-        font-size: 17px;
-    }
-}
+
    
