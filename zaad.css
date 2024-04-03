@@ -83,17 +83,17 @@ body {
 }
 @media (max-width: 750px) {
   P {
-    font-size: 17px;
+    font-size: 12px;
   }
 }
 @media (min-width: 751px) and (max-width: 999px) {
   P {
-    font-size: 17px;
+    font-size: 12px;
   }
 }
 
 @media (min-width: 1000px) {
   P {
-    font-size: 17px;
+    font-size: 12px;
   }
 }
