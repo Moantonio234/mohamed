@@ -84,7 +84,13 @@ body{
     display: inline-block;
    
 }
-
+.call{
+  width: 20px;
+  height: 20px;
+    margin-left: 170px;
+    margin-top: 5px;
+    
+}
 @media(max-width:750px) {
     P{
         font-size: 17px;
@@ -92,7 +98,7 @@ body{
   
 
 }
-@media(min-width:751px) and (max-width:999px){
+@media(min-width:751px) and (min-width:999px){
     P{
         font-size: 17px;
     }
